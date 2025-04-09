@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520041215797",
+    "project_id": "fluttercardgames",
+    "storage_bucket": "fluttercardgames.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520041215797:android:e07d1709f66d6d55bdbe7c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_card_games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwxqyZEGVCroeeFkBU3Y8eoYF6Ot28l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
